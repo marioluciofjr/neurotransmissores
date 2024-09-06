@@ -2,40 +2,53 @@
 <html lang="pt-br">
 
 <head>
+    <!-- Metadados da página -->
     <meta charset="UTF-8">
+    <!-- Configura a viewport para dispositivos móveis -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Link para o arquivo CSS externo -->
     <link rel="stylesheet" href="styles.css">
+    <!-- Título da página exibido na aba do navegador -->
     <title>Document</title>
 </head>
 
 <body>
+    <!-- Cabeçalho da página -->
     <header>
+        <!-- Título principal com emoji -->
         <h1>🧠 Neurotransmissores</h1>
     </header>
+
+    <!-- Conteúdo principal da página -->
     <main>
         <section>
+            <!-- Campo de pesquisa de neurotransmissores -->
             <input type="text" placeholder="Digite algum neurotransmissor" id="campo-pesquisa">
+            <!-- Botão de pesquisa com função JavaScript -->
             <button onclick="pesquisar()">Pesquisar</button>
         </section>
-        <section class="resultados-pesquisa" id="resultados-pesquisa">
-          
-
-        </section>
+        
+        <!-- Seção onde os resultados da pesquisa serão exibidos -->
+        <section class="resultados-pesquisa" id="resultados-pesquisa"></section>
     </main>
+
+    <!-- Rodapé com informações de direitos autorais e links sociais -->
     <footer>
         <p>
             2024 - Mário Lúcio - Todos os direitos reservados
+            <!-- Link para o perfil do LinkedIn -->
             <a href="https://linkedin.com/in/marioluciofjr" target="_blank">
                 <img src="https://cdn-icons-png.flaticon.com/128/733/733617.png" alt="Ícone do LinkedIn">
             </a>
+            <!-- Link para o perfil do GitHub -->
             <a href="https://github.com/marioluciofjr" target="_blank">
                 <img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" alt="Ícone do GitHub">
             </a>
         </p>
-
     </footer>
-    <script src="dados.js"></script>
 
+    <!-- Inclusão do arquivo de dados e do script principal -->
+    <script src="dados.js"></script>
     <script src="app.js"></script>
 </body>
 
