@@ -3,13 +3,13 @@ Este projeto foi desenvolvido graças a Imersão Dev_ Alura & Google
 
 ## Sumário
 
-> [Introdução](https://github.com/marioluciofjr/projetos_aptos_LIE#introdu%C3%A7%C3%A3o)\
-> [Como utilizar](https://github.com/marioluciofjr/projetos_aptos_LIE#como-utilizar-o-site)\
-> [Estrutura do projeto](https://github.com/marioluciofjr/projetos_aptos_LIE#estrutura-do-projeto)\
-> [Links úteis](https://github.com/marioluciofjr/projetos_aptos_LIE/edit/main/README.md#links-%C3%BAteis)\
-> [Contribuições](https://github.com/marioluciofjr/projetos_aptos_LIE#contribui%C3%A7%C3%B5es)\
-> [Licença](https://github.com/marioluciofjr/projetos_aptos_LIE#licen%C3%A7a)\
-> [Contato](https://github.com/marioluciofjr/projetos_aptos_LIE#contato)
+> [Introdução](https://github.com/marioluciofjr/neurotransmissores/tree/main#introdu%C3%A7%C3%A3o)\
+> [Como utilizar](https://github.com/marioluciofjr/neurotransmissores/tree/main#como-utilizar)\
+> [Estrutura do projeto](https://github.com/marioluciofjr/neurotransmissores/tree/main#estrutura-do-projeto)\
+> [Links úteis](https://github.com/marioluciofjr/neurotransmissores/tree/main#links-%C3%BAteis)\
+> [Contribuições](https://github.com/marioluciofjr/neurotransmissores/tree/main#contribui%C3%A7%C3%B5es)\
+> [Licença](https://github.com/marioluciofjr/neurotransmissores/tree/main#licen%C3%A7a)\
+> [Contato](https://github.com/marioluciofjr/neurotransmissores/tree/main#contato)
 
 ## Introdução
 
@@ -23,6 +23,7 @@ Este projeto foi desenvolvido graças a Imersão Dev_ Alura & Google
 4. Explore os links e informações exibidos para aprender mais sobre neurotransmissores.
 
 <div>
+  <br><br>
   <img align="center" src= "https://github.com/marioluciofjr/neurotransmissores/blob/main/neurotransmissores.gif" />
 </div>
 
@@ -81,8 +82,6 @@ Durante o projeto utilizei várias ferramentas muito úteis e deixo aqui os link
 + [Badges Generator](https://badgesgenerator.com/) - para criar as badges presentes neste README;
 + [Devicon](https://devicon.dev/) - utilizar os ícones das linguagens html, css e javascript;
 + [Imersão Dev com Gemini [Guia de Mergulho]](https://grupoalura.notion.site/Imers-o-Dev-com-Gemini-Guia-de-Mergulho-7742af09c51649348a91f67157df8a41#4b72e0a2a43445abb490e252b8d5faed) - guia excelente para compreender cada detalhe da Imersão Dev_;
-+ [Página da Lei de Incentivo ao Esporte](https://www.gov.br/esporte/pt-br/acoes-e-programas/lei-de-incentivo-ao-esporte) - foi essencial para eu compreender como funciona a Lei de Incentivo ao Esporte, quais são os projetos aptos para doação e investimento, quais são as etapas que cada projeto em período de captação deve seguir e assim por diante;
-+ [Quer doar parte de seu Imposto de Renda para projetos da Lei de Incentivo ao Esporte? Saiba como](https://youtu.be/lutHIt0DC2Q?si=MPEiPnkbJ4JQdJCY) - vídeo didático do Ministério do Esporte que explica como funciona a doação para projetos aptos pela Lei de Incentivo ao Esporte;
 + [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) - a fim de construir um README coeso, organizado e didático;
 + [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - documentação oficial do GitHub sobre o README e vários outros detalhes importantíssimos na construção de um repositório de qualidade;
 + [Vercel](https://vercel.com/) - plataforma para fazer o deploy da aplicação de maneira simples e rápida.
